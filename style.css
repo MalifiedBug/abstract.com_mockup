@@ -1,0 +1,40 @@
+.branditem{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.searchbar{
+    padding: 10%;
+    background-color: 
+    #dadbf1;
+}
+
+.infos{
+    border: 2px solid;
+    max-width: 300px;
+    height: 100px;
+    margin: 20px;
+    
+}
+
+.infoimg{
+    width: 80px;
+    height: 80px;
+    
+}
+
+
+
+.bottomright {
+  position: fixed;
+  right: 5px; bottom: 5px;
+  width: fit-content;
+  height:fit-content;
+  padding: 20px;
+  background-color:rgb(98, 96, 241);
+  padding: 5px;
+  border-radius: 10px;
+  overflow: auto;
+}
+
